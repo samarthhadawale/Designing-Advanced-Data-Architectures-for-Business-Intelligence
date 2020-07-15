@@ -5,9 +5,6 @@ United States Health Insurance Program
 2.	Samarth Hadawale		              001053811 
 3.	Rohan Kapadnis		                      001342161
 
-
-
-
 Goal: 
 -	To explore the Health Insurance Programs offered in the US. 
 -	Investigate the claims that are rejected or accepted by the Health Insurance plans
@@ -16,13 +13,11 @@ Goal:
 -	Determine the variance in plan benefits and rates across different US States. 
 -	Measure the revenue that a Health Plan gains on medical claims
 
-
-
-
-
-
 Background:
 We have used a dataset that provides information on the health insurance coverage data for each US 
 state and the nation as a whole. 
 It includes entities of Issuer information, Network served, States covered, various Policies, Procedures included and the Claims applied. 
 Total volume of the data extends to 250,000+ rows.
+
+Tableau Dashboard : Tableau Public Link : https://public.tableau.com/profile/samarth.hadawale#!/?newProfile=&activeTab=0
+
